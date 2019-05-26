@@ -1,4 +1,6 @@
-function add()
+function add(a, b) {
+  return a + b
+}
 
 function sub()
 
@@ -11,7 +13,5 @@ function inc()
 function dec()
 
 function makeInt()
-
-makeInt(2, 10)
 
 function preserveDecimal()
