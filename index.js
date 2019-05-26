@@ -1,27 +1,7 @@
-var number = 10
+function add()
 
-function add5() {
-  number += 5
-}
+function sub()
 
-function divideBy3() {
-  number /= 3
-}
+function multi()
 
-divideBy3()
-
-console.log(number)
-
-add5()
-
-console.log(number)
-
-number = 10
-
-add5()
-
-console.log(number) 
-
-divideBy3()
-
-console.log(number)
+function
