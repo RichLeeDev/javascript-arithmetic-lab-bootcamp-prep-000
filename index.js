@@ -1,22 +1,26 @@
 function add(a, b) {
-  a + b
+  return a + b
 }
 
 function sub(a, b) {
-  a - b
+  return a - b
 }
 
 function multi(a, b) {
-  a * b
+  return a * b
 }
 
 function div(a, b) {
-  a / b
+  return a / b
 }
 
-function inc(a, b) 
+function inc(n) {
+  return n += 1
+} 
 
-function dec(a, b)
+function dec(n) {
+  return n -= 1
+}
 
 function makeInt()
 
