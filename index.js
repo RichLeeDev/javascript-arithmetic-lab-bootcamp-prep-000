@@ -2,15 +2,19 @@ function add(a, b) {
   a + b
 }
 
-function sub()
+function sub(a, b) {
+  a - b
+}
 
-function multi()
+function multi(a, b) {
+  a * b
+}
 
-function div()
+function div(a, b)
 
-function inc()
+function inc(a, b)
 
-function dec()
+function dec(a, b)
 
 function makeInt()
 
