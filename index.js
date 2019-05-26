@@ -10,9 +10,11 @@ function multi(a, b) {
   a * b
 }
 
-function div(a, b)
+function div(a, b) {
+  a / b
+}
 
-function inc(a, b)
+function inc(a, b) 
 
 function dec(a, b)
 
