@@ -10,7 +10,7 @@ function multiply(a, b) {
   return a * b
 }
 
-function div(a, b) {
+function divide(a, b) {
   return a / b
 }
 
@@ -27,5 +27,5 @@ function makeInt(n) {
 }
 
 function preserveDecimal(n) {
-  
+  return parseFloat(n)
 }
